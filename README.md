@@ -1,5 +1,5 @@
 # cctv-object-detection
-A very minimalistic yet powerful general object detection for any kind of cctv video footages with an managable with an interactive UI.
+A very minimalistic yet powerful general object detection for any kind of video or cctv footages with an interactive UI.
 
 Requirements:
 
@@ -13,4 +13,9 @@ Requirements:
     Tensorflow
     (rest can be found in requirements)
 
-Outputs
+Outputs:
+
+Application window:
+
+![GitHub Logo](/images/logo.png)
+Format: ![app window image](url)
