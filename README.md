@@ -17,5 +17,5 @@ Outputs:
 
 Application window:
 
-!(/app_window.png)
-Format: ![Alt Text](url)
+![GitHub Logo](/app_window.png)
+
