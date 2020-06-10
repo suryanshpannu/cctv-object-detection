@@ -18,3 +18,4 @@ Outputs:
 Application window:
 
 !(/app_window.png)
+Format: ![Alt Text](url)
