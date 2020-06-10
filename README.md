@@ -17,5 +17,5 @@ Outputs:
 
 Application window:
 
-![GitHub Logo](/images/logo.png)
+![GitHub Logo](/app_window.png)
 Format: ![app window image](url)
